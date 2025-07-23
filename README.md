@@ -40,17 +40,23 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) application for managin
 ```bash
 git clone https://github.com/khushi036/mern-bookstore.git
 cd mern-bookstore
+```
 
-
-# 2️⃣ Setup and start the backend server
+#### 2️⃣ Setup and start the backend server
+```bash
 cd mern-server
 npm install
 npm start
+```
 
-# 3️⃣ Setup and start the frontend client
+#### 3️⃣ Setup and start the frontend client
+```bash
 cd ../mern-client
 npm install
 npm run dev
+```
 
-# 4️⃣ Open your browser at:
+#### 4️⃣ Open your browser at:
+```bash
 # http://localhost:5173
+```
